@@ -1,2 +1,2 @@
-# docs
-A community-driven documentation for Off The Road
+# The Off The Road Wiki
+A community-driven wiki like for the mobile game Off The Road
